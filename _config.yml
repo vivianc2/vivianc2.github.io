@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yiwei (Vivian) Chen"
+  pronouns         : "she/her"  
+  bio              : "A Senior majoring in CS, linguistcs, and math, doing NLP research."
+  location         : "Ithaca, NY"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yc833@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
