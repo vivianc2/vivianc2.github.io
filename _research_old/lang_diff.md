@@ -2,9 +2,8 @@
 title: "Diffusion Guided Language Modeling"
 collection: research
 type: "research experience"
-permalink: /research/lang_diff
 venue: "Prof. Kilian Weinberger’s Lab"
-date: Oct 2023 - May 2024
+date: "Oct 2023 - May 2024"
 location: "Ithaca, NY"
 ---
 
