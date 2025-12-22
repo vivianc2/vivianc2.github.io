@@ -35,6 +35,26 @@
         "code": "https://github.com/lil-lab/respect/",
         "demo": "https://huggingface.co/spaces/lillab-demos/respect"
       }
+    },
+    {
+      "title": "Zephyrus: An Agentic Framework for Weather Science",
+      "authors": [
+        "Sumanth Varambally",
+        "Marshall Fisher",
+        "Jas Thakker",
+        "Yiwei Chen",
+        "Zhirui Xia",
+        "Yasaman Jafari",
+        "Ruijia Niu",
+        "et al."
+      ],
+      "venue": "NeurIPS 2025 Workshop on AI4Science",
+      "thumbnail": "images/thumbs/3.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2510.04017"
+      }
     }
   ]
 }
