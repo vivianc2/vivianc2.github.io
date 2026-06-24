@@ -1,6 +1,23 @@
 {
   "publications": [
     {
+      "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
+      "authors": [
+        "Yiwei Chen",
+        "Amila Weerasinghe",
+        "Siddharth Biswal",
+        "Utkrisht Rajkumar",
+        "Olcay Boz",
+        "Taylor Berg-Kirkpatrick",
+        "Rose Yu"
+      ],
+      "venue": "Under Review (2026)",
+      "thumbnail": "images/thumbs/4.png",
+      "selected": 1,
+      "award": "",
+      "links": {}
+    },
+    {
       "title": "Diffusion Guided Language Modeling",
       "authors": [
         "Justin Lovelace",

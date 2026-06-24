@@ -301,6 +301,35 @@ nav a:hover,
   border-left-color: var(--accent-color);
 }
 
+/* Industry section */
+.industry-item {
+  margin-bottom: 0.75rem;
+}
+
+.industry-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.industry-org {
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.industry-role {
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.industry-date {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  margin-left: auto;
+}
+
 /* Services and misc */
 .service-title {
   font-weight: 500;
