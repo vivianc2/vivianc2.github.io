@@ -1,1 +1,4 @@
 .DS_Store
+
+# Resume (contains personal contact info) and LaTeX build files
+resume.*
