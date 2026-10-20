@@ -52,6 +52,7 @@ header {
   width: 200px; /* Make it larger, optional */
   height: 200px;
   object-fit: cover;
+  object-position: center 20%;
   border-radius: 10px; /* <-- Change from 50% to 10px */
   border: 2px solid var(--border-color);
   box-shadow: 0 2px 16px rgba(0, 0, 0, 0.06); /* Optional: subtle shadow */

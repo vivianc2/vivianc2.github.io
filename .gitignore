@@ -2,3 +2,6 @@
 
 # Resume (contains personal contact info) and LaTeX build files
 resume.*
+
+# Original full-size headshots (site uses web-sized .jpg copies)
+images/headshot*.png
