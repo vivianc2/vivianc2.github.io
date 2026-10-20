@@ -20,19 +20,25 @@
       }
     },
     {
-      "title": "Diffusion Guided Language Modeling",
+      "title": "Zephyrus: An Agentic Framework for Weather Science",
       "authors": [
-        "Justin Lovelace",
-        "Varsha Kishore",
+        "Sumanth Varambally",
+        "Marshall Fisher",
+        "Jas Thakker",
         "Yiwei Chen",
-        "Kilian Weinberger"
+        "Zhirui Xia",
+        "Yasaman Jafari",
+        "Ruijia Niu",
+        "et al."
       ],
-      "venue": "Findings of ACL 2024",
-      "thumbnail": "images/thumbs/1.png",
+      "venue": "NeurIPS 2025 Workshop on AI4Science",
+      "thumbnail": "images/thumbs/3.png",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://aclanthology.org/2024.findings-acl.887/"
+        "pdf": "https://arxiv.org/abs/2510.04017",
+        "code": "https://github.com/Rose-STL-Lab/Zephyrus",
+        "dataset": "https://huggingface.co/datasets/Rose-STL-Lab/Zephyrus"
       }
     },
     {
@@ -56,23 +62,20 @@
       }
     },
     {
-      "title": "Zephyrus: An Agentic Framework for Weather Science",
+      "title": "Diffusion Guided Language Modeling",
       "authors": [
-        "Sumanth Varambally",
-        "Marshall Fisher",
-        "Jas Thakker",
+        "Justin Lovelace",
+        "Varsha Kishore",
         "Yiwei Chen",
-        "Zhirui Xia",
-        "Yasaman Jafari",
-        "Ruijia Niu",
-        "et al."
+        "Kilian Weinberger"
       ],
-      "venue": "NeurIPS 2025 Workshop on AI4Science",
-      "thumbnail": "images/thumbs/3.png",
+      "venue": "Findings of ACL 2024",
+      "thumbnail": "images/thumbs/1.png",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://arxiv.org/abs/2510.04017"
+        "pdf": "https://aclanthology.org/2024.findings-acl.887/",
+        "code": "https://github.com/justinlovelace/Diffusion-Guided-LM"
       }
     }
   ]

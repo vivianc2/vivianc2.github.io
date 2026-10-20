@@ -162,6 +162,13 @@ function createPublicationElement(publication) {
       links.appendChild(codeLink);
     }
 
+    if (publication.links.dataset) {
+      const datasetLink = document.createElement("a");
+      datasetLink.href = publication.links.dataset;
+      datasetLink.textContent = "[Dataset]";
+      links.appendChild(datasetLink);
+    }
+
     if (publication.links.project) {
       const projectLink = document.createElement("a");
       projectLink.href = publication.links.project;
